@@ -2,6 +2,10 @@
 
 There are some useful repositories in the mix. Here's a curated list for his own benefit.
 
+## Undies
+With the latest auto-complete feature, `undies` is stable and usable:
+https://github.com/pendashteh/undies
+
 ## git wip
 https://github.com/chipshell/git-wip
 Made with claude (or was it chat?). Something Alexar uses instead of standard git.
